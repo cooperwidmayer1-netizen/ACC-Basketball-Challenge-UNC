@@ -1,0 +1,111 @@
+date,away_team,away_pts,home_team,home_pts,ot,spread
+2010-02-02,Miami (FL),53,Wake Forest,62,,9
+2010-02-03,NC State,47,Virginia,59,,12
+2010-02-04,Georgia Tech,67,Duke,86,,19
+2010-02-04,Maryland,71,Florida State,67,,-4
+2010-02-04,North Carolina,70,Virginia Tech,74,,4
+2010-02-06,Duke,66,Boston College,63,,-3
+2010-02-06,Miami (FL),65,Florida State,71,,6
+2010-02-06,NC State,71,Georgia Tech,73,,2
+2010-02-06,Wake Forest,64,Virginia,61,OT,-3
+2010-02-06,Clemson,59,Virginia Tech,70,,11
+2010-02-07,North Carolina,71,Maryland,92,,21
+2010-02-09,Boston College,85,Wake Forest,92,,7
+2010-02-10,Duke,64,North Carolina,54,,-10
+2010-02-10,Virginia Tech,72,NC State,52,,-20
+2010-02-10,Florida State,67,Clemson,77,,10
+2010-02-10,Georgia Tech,62,Miami (FL),64,,2
+2010-02-13,Miami (FL),66,Clemson,74,,8
+2010-02-13,Maryland,56,Duke,77,,21
+2010-02-13,NC State,61,North Carolina,74,,13
+2010-02-13,Virginia,55,Virginia Tech,61,,6
+2010-02-13,Georgia Tech,64,Wake Forest,75,,11
+2010-02-14,Boston College,47,Florida State,62,,15
+2010-02-15,Virginia,66,Maryland,85,,19
+2010-02-16,Wake Forest,83,Virginia Tech,87,,4
+2010-02-16,North Carolina,51,Georgia Tech,68,,17
+2010-02-17,Maryland,67,NC State,58,,-9
+2010-02-17,Florida State,69,Virginia,50,,-19
+2010-02-17,Duke,81,Miami (FL),74,,-7
+2010-02-20,North Carolina,67,Boston College,71,,4
+2010-02-20,Virginia,49,Clemson,72,,23
+2010-02-20,Georgia Tech,74,Maryland,76,,2
+2010-02-20,Wake Forest,54,NC State,68,,14
+2010-02-21,Virginia Tech,55,Duke,67,,12
+2010-02-23,Virginia,62,Miami (FL),74,,12
+2010-02-24,Virginia Tech,60,Boston College,80,,20
+2010-02-24,Clemson,79,Maryland,88,,9
+2010-02-24,Florida State,77,North Carolina,67,,-10
+2010-02-27,North Carolina,77,Wake Forest,68,,-9
+2010-02-27,Maryland,104,Virginia Tech,100,2OT,-4
+2010-02-27,Boston College,68,Georgia Tech,73,,5
+2010-02-27,NC State,71,Miami (FL),66,,-5
+2010-02-28,Clemson,53,Florida State,50,,-3
+2010-02-28,Duke,67,Virginia,49,,-18
+2010-03-02,Georgia Tech,80,Clemson,91,,11
+2010-03-02,Miami (FL),62,North Carolina,69,,7
+2010-03-03,Virginia,55,Boston College,68,,13
+2010-03-03,Wake Forest,47,Florida State,51,,4
+2010-03-03,Duke,72,Maryland,79,,7
+2010-03-03,NC State,59,Virginia Tech,71,,12
+2010-03-06,Florida State,61,Miami (FL),60,,-1
+2010-03-06,North Carolina,50,Duke,82,,32
+2010-03-06,Virginia Tech,88,Georgia Tech,82,,-6
+2010-03-06,Maryland,74,Virginia,68,,-6
+2010-03-07,Boston College,54,NC State,66,,12
+2010-03-07,Clemson,65,Wake Forest,70,,5
+2011-02-01,North Carolina,106,Boston College,74,,-32
+2011-02-01,Wake Forest,61,Florida State,85,,24
+2011-02-02,Duke,80,Maryland,62,,-18
+2011-02-02,Virginia Tech,77,NC State,69,,-8
+2011-02-02,Clemson,47,Virginia,49,,2
+2011-02-03,Georgia Tech,57,Miami (FL),59,,2
+2011-02-05,Virginia Tech,56,Boston College,58,,2
+2011-02-05,NC State,52,Duke,76,,24
+2011-02-05,Clemson,65,Georgia Tech,56,,-9
+2011-02-05,Wake Forest,70,Maryland,91,,21
+2011-02-05,Virginia,68,Miami (FL),70,OT,2
+2011-02-06,Florida State,69,North Carolina,89,,20
+2011-02-08,Boston College,69,Clemson,77,,8
+2011-02-09,Miami (FL),74,Wake Forest,73,,-1
+2011-02-09,North Carolina,73,Duke,79,,6
+2011-02-10,Florida State,72,Georgia Tech,63,,-9
+2011-02-12,Maryland,72,Boston College,76,,4
+2011-02-12,North Carolina,64,Clemson,62,,-2
+2011-02-12,Virginia,56,Florida State,63,,7
+2011-02-13,Duke,81,Miami (FL),71,,-10
+2011-02-13,Georgia Tech,77,Virginia Tech,102,,25
+2011-02-13,NC State,80,Wake Forest,55,,-25
+2011-02-15,Wake Forest,64,North Carolina,78,,14
+2011-02-15,Maryland,83,Virginia Tech,91,,8
+2011-02-16,Duke,56,Virginia,41,,-15
+2011-02-17,Clemson,61,NC State,69,,8
+2011-02-19,Florida State,84,Wake Forest,66,,-18
+2011-02-19,Virginia Tech,54,Virginia,61,,7
+2011-02-19,Boston College,46,North Carolina,48,,2
+2011-02-20,Georgia Tech,57,Duke,79,,22
+2011-02-20,NC State,80,Maryland,87,,7
+2011-02-20,Clemson,63,Miami (FL),59,,-4
+2011-02-22,Virginia Tech,76,Wake Forest,62,,-14
+2011-02-23,Miami (FL),73,Boston College,64,,-9
+2011-02-23,Virginia,62,Georgia Tech,56,,-6
+2011-02-23,Florida State,62,Maryland,78,,16
+2011-02-23,North Carolina,75,NC State,63,,-12
+2011-02-26,Boston College,63,Virginia,44,,-19
+2011-02-26,Georgia Tech,74,NC State,79,,5
+2011-02-26,Duke,60,Virginia Tech,64,,4
+2011-02-26,Wake Forest,49,Clemson,63,,14
+2011-02-26,Miami (FL),59,Florida State,65,,6
+2011-02-27,Maryland,76,North Carolina,87,,11
+2011-03-01,NC State,58,Virginia,69,,11
+2011-03-01,Boston College,76,Virginia Tech,61,,-15
+2011-03-02,Clemson,59,Duke,70,,11
+2011-03-02,North Carolina,72,Florida State,70,,-2
+2011-03-02,Maryland,66,Miami (FL),80,,14
+2011-03-03,Georgia Tech,80,Wake Forest,54,,-26
+2011-03-05,Virginia Tech,60,Clemson,69,,9
+2011-03-05,Virginia,74,Maryland,60,,-14
+2011-03-05,Duke,67,North Carolina,81,,14
+2011-03-06,Miami (FL),57,Georgia Tech,66,,9
+2011-03-06,Wake Forest,68,Boston College,84,,16
+2011-03-06,Florida State,72,NC State,62,,-10
