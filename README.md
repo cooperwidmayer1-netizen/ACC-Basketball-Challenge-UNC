@@ -1,7 +1,6 @@
 # ACC Basketball Challenge
 
-This project builds a predictive pipeline for ACC basketball games using historical results, schedule data, team-level rolling features, and ridge regression models. The goal is to generate projected point spreads for future games in a fully runnable Python codebase rather than a Jupyter notebook workflow.
-
+This project builds a predictive pipeline for ACC basketball games using historical results, schedule data, team-level rolling features, and ridge regression models.
 ## Overview
 
 The model combines historical game data from ESPN with a schedule CSV containing upcoming games. It then constructs team-based features such as recent form, tempo, and rest before fitting models to estimate future game spreads.
